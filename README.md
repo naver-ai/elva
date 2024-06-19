@@ -2,6 +2,11 @@
 
 # Elva: Efficient Language and Vision Assistant
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2406.11823-red)](https://arxiv.org/abs/2406.11823)
+
+<img width="384" alt="teaser1" src="https://github.com/naver-ai/elva/assets/67895460/1930eff8-87ae-4b73-b924-e5ff5677e87e">
+<img width="384" alt="teaser2" src="https://github.com/naver-ai/elva/assets/67895460/17fde7ac-2024-44ad-9e3f-616a1385285a">
+
+
 </div>
 
 
