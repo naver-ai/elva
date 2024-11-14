@@ -6,8 +6,7 @@
 
 Official Implementation of Elva | [Paper](https://arxiv.org/abs/2406.11823) | [Slide](https://docs.google.com/presentation/d/1SfPHqJs7v38_IvNDcvrWnhIQU2AjzXxHmCdflz_wDaw/edit?usp=sharing) | [Poster](https://docs.google.com/presentation/d/1FiRnXL4sp3rBoHdYMQYt4PruFrNR1x5EjGQye_uB3Jk/edit?usp=sharing)
 
-<img width="384" alt="teaser1" src="https://github.com/naver-ai/elva/assets/67895460/1930eff8-87ae-4b73-b924-e5ff5677e87e">
-<img width="384" alt="teaser2" src="https://github.com/naver-ai/elva/assets/67895460/17fde7ac-2024-44ad-9e3f-616a1385285a">
+<img width="800" alt="teaser" src="https://github.com/user-attachments/assets/2ebe381e-7a3c-4a0d-b299-2e2a216f1290">
 
 </div>
 
