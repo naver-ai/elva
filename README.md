@@ -24,6 +24,7 @@ For more detailed information, please refer to our paper linked below. We hope y
 
 ## Updates
 
+**_2024-11-23_** Additional pretrained weights have been updated, and a bug fix has been implemented.
 **_2024-11-14_** Initial release of the codebase.
 
 ## Installation
@@ -38,13 +39,13 @@ bash install.sh
 
 | Model               | Link |
 |---------------------|------|
-| Elva-LLaMA-160M     | [gwkrsrch/elva-llama-160m](https://huggingface.co/gwkrsrch/elva-llama-160m) |
-| Elva-TinyVicuna-1B  | Coming soon! |
-| Elva-Phi3-3.8B      | Coming soon! |
+| Elva-LLaMA-160M     | [gwkrsrch/Elva-Llama-160M](https://huggingface.co/gwkrsrch/Elva-Llama-160M) |
+| Elva-Tiny-Vicuna-1B | [gwkrsrch/Elva-Tiny-Vicuna-1B](https://huggingface.co/gwkrsrch/Elva-Tiny-Vicuna-1B) |
+| Elva-Phi3-3.8B      | [gwkrsrch/Elva-Phi3-3.8B](https://huggingface.co/gwkrsrch/Elva-Phi3-3.8B) |
 | Elva-Vicuna-7B      | Coming soon! |
 | Elva-Vicuna-13B     | Coming soon! |
 
-You can start by experimenting with our smallest 0.2B model. More models will be available soon. Also, you can train your own models using the instructions in the next sections.
+More models will be available soon. Also, you can train your own models using the instructions in the next sections.
 
 ## Testing Pretrained Models
 
@@ -52,7 +53,7 @@ To test the pretrained models, use this command:
 
 ```bash
 cd VLMEvalKit
-torchrun --nproc-per-node=1 run.py --data ScienceQA_TEST --model elva-llama-160m
+torchrun --nproc-per-node=1 run.py --data ScienceQA_TEST --model Elva-Llama-160M
 ```
 
 This will show you the test results.
