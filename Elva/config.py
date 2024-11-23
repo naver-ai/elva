@@ -343,7 +343,9 @@ h2ovl_series = {
 }
 
 elva_series = {
-    'elva-llama-160m': partial(ElvaLLaMA, model_path='gwkrsrch2/elva-llama-160m'),
+    'Elva-Llama-160M': partial(ElvaLLaMA, model_path='gwkrsrch/Elva-Llama-160M'),
+    'Elva-Tiny-Vicuna-1B': partial(ElvaLLaMA, model_path='gwkrsrch/Elva-Tiny-Vicuna-1B'),
+    'Elva-Phi3-3.8': partial(ElvaPhi3, model_path='gwkrsrch/Elva-Phi3-3.8B'),
 }
 
 supported_VLM = {}
