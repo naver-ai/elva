@@ -25,6 +25,7 @@ For more detailed information, please refer to our paper linked below. We hope y
 ## Updates
 
 **_2024-11-23_** Additional pretrained weights have been updated, and a bug fix has been implemented.
+
 **_2024-11-14_** Initial release of the codebase.
 
 ## Installation
