@@ -1,0 +1,6 @@
+[submodule "VLMEvalKit"]
+	path = VLMEvalKit
+	url = https://github.com/open-compass/VLMEvalKit.git
+[submodule "LLaVA"]
+	path = LLaVA
+	url = https://github.com/haotian-liu/LLaVA.git
