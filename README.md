@@ -24,6 +24,8 @@ For more detailed information, please refer to our paper linked below. We hope y
 
 ## Updates
 
+**_2024-12-16_** Additional pretrained weights have been updated.
+
 **_2024-11-23_** Additional pretrained weights have been updated, and a bug fix has been implemented.
 
 **_2024-11-14_** Initial release of the codebase.
@@ -40,13 +42,16 @@ bash install.sh
 
 | Model               | Link |
 |---------------------|------|
-| Elva-LLaMA-160M     | [gwkrsrch/Elva-Llama-160M](https://huggingface.co/gwkrsrch/Elva-Llama-160M) |
-| Elva-Tiny-Vicuna-1B | [gwkrsrch/Elva-Tiny-Vicuna-1B](https://huggingface.co/gwkrsrch/Elva-Tiny-Vicuna-1B) |
-| Elva-Phi3-3.8B      | [gwkrsrch/Elva-Phi3-3.8B](https://huggingface.co/gwkrsrch/Elva-Phi3-3.8B) |
-| Elva-Vicuna-7B      | Coming soon! |
-| Elva-Vicuna-13B     | Coming soon! |
+| Elva-LLaMA-160M       | [gwkrsrch/Elva-Llama-160M](https://huggingface.co/gwkrsrch/Elva-Llama-160M) |
+| Elva-OpenELM-270M     | [gwkrsrch/Elva-OpenELM-270M](https://huggingface.co/gwkrsrch/Elva-OpenELM-270M) |
+| Elva-OpenELM-450M     | [gwkrsrch/Elva-OpenELM-450M](https://huggingface.co/gwkrsrch/Elva-OpenELM-450M) |
+| Elva-OpenELM-1.1B     | [gwkrsrch/Elva-OpenELM-1.1B](https://huggingface.co/gwkrsrch/Elva-OpenELM-1.1B) |
+| Elva-Tiny-Vicuna-1.1B | [gwkrsrch/Elva-Tiny-Vicuna-1.1B](https://huggingface.co/gwkrsrch/Elva-Tiny-Vicuna-1.1B) |
+| Elva-Phi3-3.8B        | [gwkrsrch/Elva-Phi3-3.8B](https://huggingface.co/gwkrsrch/Elva-Phi3-3.8B) |
+| Elva-Vicuna-7B        | [gwkrsrch/Elva-Vicuna-7B](https://huggingface.co/gwkrsrch/Elva-Vicuna-7B) |
+| Elva-Vicuna-13B       | [gwkrsrch/Elva-Vicuna-13B](https://huggingface.co/gwkrsrch/Elva-Vicuna-13B) |
 
-More models will be available soon. Also, you can train your own models using the instructions in the next sections.
+Also, you can train your own models using the instructions in the next sections.
 
 ## Testing Pretrained Models
 
