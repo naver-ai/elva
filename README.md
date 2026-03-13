@@ -4,7 +4,7 @@
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2406.11823-red)](https://arxiv.org/abs/2406.11823)
 [![Conference](https://img.shields.io/badge/EMNLP-2024-blue)](#how-to-cite)
 
-Official Implementation of Elva | [Paper](https://arxiv.org/abs/2406.11823) | [Slide](https://docs.google.com/presentation/d/1SfPHqJs7v38_IvNDcvrWnhIQU2AjzXxHmCdflz_wDaw/edit?usp=sharing) | [Poster](https://docs.google.com/presentation/d/1FiRnXL4sp3rBoHdYMQYt4PruFrNR1x5EjGQye_uB3Jk/edit?usp=sharing)
+Official Implementation of Elva | [Paper](https://arxiv.org/abs/2406.11823) | [Model](https://github.com/naver-ai/elva/tree/main?tab=readme-ov-file#pretrained-models) | [CORD-Instruct](https://huggingface.co/datasets/gwkrsrch/cord-instruct) | [Parsing-Bench](https://huggingface.co/datasets/gwkrsrch/parsing-bench) | [Slide](https://docs.google.com/presentation/d/1SfPHqJs7v38_IvNDcvrWnhIQU2AjzXxHmCdflz_wDaw/edit?usp=sharing) | [Poster](https://docs.google.com/presentation/d/1FiRnXL4sp3rBoHdYMQYt4PruFrNR1x5EjGQye_uB3Jk/edit?usp=sharing)
 
 <img width="800" alt="teaser" src="https://github.com/user-attachments/assets/2ebe381e-7a3c-4a0d-b299-2e2a216f1290">
 
